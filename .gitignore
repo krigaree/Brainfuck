@@ -1,0 +1,6 @@
+# ignore all classes files
+*.class
+
+*.iml
+
+*.idea
