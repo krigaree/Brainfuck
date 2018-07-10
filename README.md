@@ -2,7 +2,7 @@
 Simple brainfuck interpreter
 ## Usage
 ```
-java Interpreter [ Brainfuck code ] [ -f \<path to file\> ]
+java Interpreter [ Brainfuck code ] [ -f <path to file> ]
 --help	show a help message
 ```
 
