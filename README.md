@@ -1,9 +1,10 @@
 # Brainfuck interpreter
 Simple brainfuck interpreter
 ## Usage
-To execute
-java Interpreter [ Brainfuck code ] [ -f <path to file> ]
+```
+java Interpreter [ Brainfuck code ] [ -f \<path to file\> ]
 --help	show a help message
+```
 
 ## Examples
 Look in the `examples` directory for some of brainfuck examples
